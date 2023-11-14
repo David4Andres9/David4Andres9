@@ -1,6 +1,6 @@
 # Bienvenido/a a mi Repositorio
 
-¡Hola! Soy David Uyaguari, desarrollador de software con experiencia en diversas tecnologías. He trabajado con C#, JavaScript y Java, y he utilizado frameworks como Angular y React para construir aplicaciones web modernas.
+¡Hola! Soy David Uyaguari, desarrollador de software y estudiante en la Pontificia Universidad Católica del Ecuador con experiencia en diversas tecnologías. He trabajado con C#, JavaScript y Java, y he utilizado frameworks como Angular y React para construir aplicaciones web modernas.
 
 ## Tecnologías que Domino
 
